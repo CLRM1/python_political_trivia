@@ -45,7 +45,7 @@ def next_block(the_file):
 
 def welcome(title):
     """Welcome the player and get his/her name."""
-    print("\tWelcome to Political Trivia Challenge!\n")
+    print("\tWelcome to Political Trivia Challenge 2017!\n")
     print("\t\t", title, "\n")
 
 def judgement(score):
@@ -53,10 +53,10 @@ def judgement(score):
         print("You got one or two correct answers :|.")
 
     elif score > 10 and score <= 20:
-        print("E for Effort!")
+        print("You got a few right, try again!")
         
     elif score > 20 and score <= 50:
-        print("You got some correct answers... You know some things, keep it up..")
+        print("You got some correct answers... You know some things :)")
 
     elif score > 50 and score <= 69:
         print("You got a majority correct... You are doing the bare minimum, do you want to do the bare minimum?..")
@@ -65,7 +65,7 @@ def judgement(score):
         print("You passed, but it wasn't perfect... Try again.")
 
     elif score == 100:
-        print("You got every question correct, hooray! You know a lot!")
+        print("You got every question correct, hooray! You know your political trivia :)")
 
     elif score == 0:
         print("You didn't get a single correct answer! \nHave you been living under a rock?! ")
