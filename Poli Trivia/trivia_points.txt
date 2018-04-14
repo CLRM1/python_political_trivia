@@ -13,9 +13,9 @@ Who is the current President of South Africa?
 Muhammadu Buhari
 Uhuru Kenyatta
 Abdel Fattah el-Sisi
-Jacob Zuma
+Cyril Ramaphosa
 4
-Jacob Zuma is the 4th and current President of South Africa.
+Cyril Ramaphosa is the 5th and current President of South Africa.
 10
 European Politics:
 Who is the current Prime Minister of the United Kingdom?
@@ -33,7 +33,7 @@ Silvio Burlusconi
 Nicolas Sarkozy
 Antoni Marti 
 1
-Emmanuel Macron is the current President of France.
+Francois Hollande is the current President of France.
 13
 USA History:
 When did the United States of America sign the Declaration of Independence?
@@ -42,18 +42,18 @@ When did the United States of America sign the Declaration of Independence?
 1775
 1776  
 4
-On July 4th, 1776 the United States of America declared independence. 
+On July 4th, 1776.
 1
-USA History:
-When was the United States Constitution created?
-1789
-1787
-1773
-1791
+International Relations:
+Who are the 5 permanent members of the UN Security Council?
+Russia, China, Japan, India, United States
+China, Russia, United Kingdom, France, United States
+Germany, United Kingdom, China, Russia, Spain
+China, Ireland, France, Brazil, United States
 2
 September 17th, 1787 the United States Constitution was approved by 12 state delegations.
 10
-Eastern Politics:
+International Relations:
 Who is the current President of the People's Republic of China?
 Hu Jintao
 Li Yuanchao
@@ -62,7 +62,7 @@ Mao Zedong
 3
 Xi Jinping is the General Secretary of the Communist Party and /The President of China.
 13
-Eastern Politics Cont:
+International Relations:
 Who is the leader of the Democratic People's Republic of Korea (North Korea)?
 Kim Il Sung
 Kim Jong Il
