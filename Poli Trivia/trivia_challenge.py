@@ -59,7 +59,7 @@ def judgement(score):
         print("You got some correct answers... You know some things :)")
 
     elif score > 50 and score <= 69:
-        print("You got a majority correct... You are doing the bare minimum, do you want to do the bare minimum?..")
+        print("You got a majority correct...")
 
     elif score >= 70 and score < 100:
         print("You passed, but it wasn't perfect... Try again.")
@@ -68,7 +68,7 @@ def judgement(score):
         print("You got every question correct, hooray! You know your political trivia :)")
 
     elif score == 0:
-        print("You didn't get a single correct answer! \nHave you been living under a rock?! ")
+        print("You got a zero but that's ok, try again!")
         
  
 def main():
