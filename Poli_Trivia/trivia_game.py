@@ -72,7 +72,7 @@ def judgement(score):
         
  
 def main():
-    trivia_file = open_file("trivia_points.txt", "r")
+    trivia_file = open_file("trivia_text.txt", "r")
     title = next_line(trivia_file)
     welcome(title)
     score = 0
