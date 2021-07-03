@@ -7,6 +7,6 @@ Python word game, some code provided by UT Austin CS302 course.
 
 **How to run in idle**. 
 1. Download the ide Idle: https://www.python.org/downloads/. 
-2. Open the python file with Idle. 
+2. Open the python file with idle. 
 3. Run. 
 
