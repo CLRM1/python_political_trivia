@@ -21,7 +21,7 @@ European Politics:
 Who is the current Prime Minister of the United Kingdom?
 Tony Blair
 Boris Johson
-Theresa May 
+Theresa May
 David Cameron
 2
 Boris Johnson is the current Prime Minister of the United Kingdom.
@@ -31,7 +31,7 @@ Who is the current President of France?
 Emmanuel Macron
 Silvio Burlusconi
 Nicolas Sarkozy
-Antoni Marti 
+Antoni Marti
 1
 Emmanuel Macron is the current President of France.
 13
@@ -40,7 +40,7 @@ When did the United States of America sign the Declaration of Independence?
 1773
 1774
 1775
-1776  
+1776
 4
 On July 4th, 1776.
 1
@@ -63,7 +63,7 @@ Mao Zedong
 Xi Jinping is the General Secretary of the Communist Party and /The President of China.
 13
 International Relations:
-Who is the leader of the Democratic People's Republic of Korea (North Korea)?
+Who is the current leader of the Democratic People's Republic of Korea (North Korea)?
 Kim Il Sung
 Kim Jong Il
 Kim Jong Un
@@ -75,17 +75,17 @@ Middle Eastern Politics:
 Who is the current Prime Minister of Israel?
 Benjamin Gurion
 Ariel Sharon
+Naftali Bennet
 Benjamin Netanyahu
-Shimon Peres
 3
-Benjamin Netanyahu is the current Prime Minister of Israel.
+Naftali Bennet is the current Prime Minister of Israel.
 12
 Middle Eastern Politics Cont:
 Who is the current President of Iran?
 Bashar al-Assad
-Hassan Rouhani
+Ebrahim Raisi
 Ayatollah Khomeini
-Mahmoud Ahmadinejad
+Hassan Rouhani
 2
-Hassan Rouhani is the 7th and current President of /The Islamic Republic of Iran.
+Ebrahim Raisi is the 7th and current President of /The Islamic Republic of Iran.
 13
