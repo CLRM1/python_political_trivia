@@ -1,5 +1,5 @@
 # politicaltriviagame
-Python word game with political and historical trivia. Some code provided by UT Austin CS302 course.
+Python word game with political and historical trivia, completed as a part of UT Austin CS302 python course.
 
 # Setup
 1. `git clone`
