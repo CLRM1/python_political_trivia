@@ -1,6 +1,5 @@
 #!usr/bin/env python
 #####
-# chris romero
 # political trivia game
 #####
 
@@ -104,7 +103,7 @@ def main():
     trivia_file.close()
 
     print("That was the last question!")
-    print("You're final score is", score)
+    print("Your final score is", score)
     judgement(score)
  
 main()  
