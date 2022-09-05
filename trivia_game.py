@@ -44,25 +44,25 @@ def welcome(title):
 
 def judgement(score):
     if score > 1 and score <= 10:
-        print("You got one or two correct answers :|.")
+        print("You got one or two correct answers!")
 
     elif score > 10 and score <= 20:
-        print("You got a few right, try again!")
+        print("You got a few answers!")
         
     elif score > 20 and score <= 50:
-        print("You got some correct answers... You know some things :)")
+        print("You got several right!")
 
     elif score > 50 and score <= 69:
-        print("You got a majority correct...")
+        print("You got most of them!")
 
     elif score >= 70 and score < 100:
-        print("You passed, but it wasn't perfect... Try again.")
+        print("You passed! Try again for a perfect score.")
 
     elif score == 100:
         print("You got every question correct, hooray! You know your political trivia :)")
 
     elif score == 0:
-        print("You got a zero but that's ok, try again!")
+        print("Try again!")
         
  
 def main():
