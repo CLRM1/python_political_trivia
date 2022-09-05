@@ -1,8 +1,3 @@
-#!usr/bin/env python
-#####
-# political trivia game
-#####
-
 import sys
 
 def open_file(file_name, mode):
@@ -103,7 +98,7 @@ def main():
     trivia_file.close()
 
     print("That was the last question!")
-    print("Your final score is", score)
+    print("Your final score is:", score)
     judgement(score)
  
 main()  
