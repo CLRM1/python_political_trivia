@@ -19,12 +19,12 @@ Cyril Ramaphosa is the 5th and current President of South Africa.
 10
 European Politics:
 Who is the current Prime Minister of the United Kingdom?
-Tony Blair
 Boris Johson
+Liz Truss
 Theresa May
 David Cameron
 2
-Boris Johnson is the current Prime Minister of the United Kingdom.
+Mary Elizabeth Truss is the current and third female Prime Minister of the United Kingdom.
 15
 European Politics Cont:
 Who is the current President of France?
@@ -36,7 +36,7 @@ Antoni Marti
 Emmanuel Macron is the current President of France.
 13
 USA History:
-When did the United States of America sign the Declaration of Independence?
+When did the United States of America sign the Declaration of Independence, formally breaking away from the United Kingdom?
 1773
 1774
 1775
@@ -60,7 +60,7 @@ Li Yuanchao
 Xi Jinping
 Mao Zedong
 3
-Xi Jinping is the General Secretary of the Communist Party and /The President of China.
+Xi Jinping is the General Secretary of the Chinese Communist Party and the President of China.
 13
 International Relations:
 Who is the current leader of the Democratic People's Republic of Korea (North Korea)?
@@ -69,13 +69,13 @@ Kim Jong Il
 Kim Jong Un
 Kim Jong-suk
 3
-Kim Jong Un is the Supreme Leader of North Korea.
+Kim Jong Un is the current Leader of North Korea.
 12
 Middle Eastern Politics:
 Who is the current Prime Minister of Israel?
 Benjamin Gurion
 Ariel Sharon
-Naftali Bennet
+Yair Lapid
 Benjamin Netanyahu
 3
 Naftali Bennet is the current Prime Minister of Israel.
@@ -87,5 +87,5 @@ Ebrahim Raisi
 Ayatollah Khomeini
 Hassan Rouhani
 2
-Ebrahim Raisi is the 7th and current President of /The Islamic Republic of Iran.
+Ebrahim Raisi is the 7th and current President of /the Islamic Republic of Iran.
 13
