@@ -44,16 +44,16 @@ def welcome(title):
 
 def judgement(score):
     if score > 1 and score <= 10:
-        print("You got one or two correct answers!")
+        print("You got one answer correct!")
 
     elif score > 10 and score <= 20:
-        print("You got a few answers!")
+        print("You got a couple of answers correct!")
         
     elif score > 20 and score <= 50:
-        print("You got several right!")
+        print("You got a few answers correct!")
 
     elif score > 50 and score <= 69:
-        print("You got most of them!")
+        print("You got most of the answers!")
 
     elif score >= 70 and score < 100:
         print("You passed! Try again for a perfect score.")
