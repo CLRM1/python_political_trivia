@@ -7,7 +7,7 @@ Kamala Harris
 Al Gore
 3
 Kamala Harris is the the 49th & current, first female, first African American and first Asian American, Vice President of the United States.
-1
+10
 USA Politics Cont:
 Who is the current President of South Africa?
 Muhammadu Buhari
@@ -25,7 +25,7 @@ Theresa May
 David Cameron
 2
 Mary Elizabeth Truss is the current and third female Prime Minister of the United Kingdom.
-15
+10
 European Politics Cont:
 Who is the current President of France?
 Emmanuel Macron
@@ -34,7 +34,7 @@ Nicolas Sarkozy
 Antoni Marti
 1
 Emmanuel Macron is the current President of France.
-13
+10
 USA History:
 When did the United States of America sign the Declaration of Independence, formally breaking away from the United Kingdom?
 1773
@@ -43,7 +43,7 @@ When did the United States of America sign the Declaration of Independence, form
 1776
 4
 On July 4th, 1776.
-1
+10
 International Relations:
 Who are the 5 permanent members of the UN Security Council?
 Russia, China, Japan, India, United States
@@ -61,7 +61,7 @@ Xi Jinping
 Mao Zedong
 3
 Xi Jinping is the General Secretary of the Chinese Communist Party and the President of China.
-13
+10
 International Relations:
 Who is the current leader of the Democratic People's Republic of Korea (North Korea)?
 Kim Il Sung
@@ -70,7 +70,7 @@ Kim Jong Un
 Kim Jong-suk
 3
 Kim Jong Un is the current Leader of North Korea.
-12
+10
 Middle Eastern Politics:
 Who is the current Prime Minister of Israel?
 Benjamin Gurion
@@ -79,7 +79,7 @@ Yair Lapid
 Benjamin Netanyahu
 3
 Naftali Bennet is the current Prime Minister of Israel.
-12
+10
 Middle Eastern Politics Cont:
 Who is the current President of Iran?
 Bashar al-Assad
@@ -88,4 +88,4 @@ Ayatollah Khomeini
 Hassan Rouhani
 2
 Ebrahim Raisi is the 7th and current President of /the Islamic Republic of Iran.
-13
+10
