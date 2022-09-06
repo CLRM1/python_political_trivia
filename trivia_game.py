@@ -38,8 +38,7 @@ def next_block(the_file):
     return category, question, answers, correct, explanation, points
 
 def welcome(title):
-    """Welcome the player and get his/her name."""
-    print("\tWelcome to Political Trivia Challenge 2017!\n")
+    print("\tWelcome to Political Trivia Challenge!\n")
     print("\t\t", title, "\n")
 
 def judgement(score):
