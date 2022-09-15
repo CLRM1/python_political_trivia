@@ -81,6 +81,8 @@ def main():
 
         # get answer
         answer = input("What's your answer?: ")
+        # print("\n\n")
+        print("\n\n\n\n")
 
         # check answer
         if answer == correct:
