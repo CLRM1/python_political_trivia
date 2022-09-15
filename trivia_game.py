@@ -81,7 +81,6 @@ def main():
 
         # get answer
         answer = input("What's your answer?: ")
-        # print("\n\n")
         print("\n\n\n\n")
 
         # check answer
@@ -98,8 +97,8 @@ def main():
 
     trivia_file.close()
 
-    print("That was the last question!")
-    print("Your final score is:", score)
+    print("=====================================\n")
+    print("Your final score is:", score, "\n")
     judgement(score)
  
 main()  
