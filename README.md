@@ -1,4 +1,4 @@
-# politicaltriviagame
+# Python Political Trivia 
 Python word game with political and historical trivia, completed as a part of UT Austin CS302 python course.
 
 # Setup
